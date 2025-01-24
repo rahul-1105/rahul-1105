@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
+```python
+Name =  "Vishal Choubey"
+Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime"]
+Languages = ["C++", "C", "Python", "JavaScript"]
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-1105&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-1105" /> </p>
 
 - 🔭 I’m currently working on [StudyNotion](https://github.com/rahul-1105/Study-Notion)
