@@ -1,9 +1,9 @@
-### Kon'nichiwa ! <img src ="https://media.tenor.com/_yeL_VoTuGsAAAAj/sakuya-touhou.gif" width="50px">
+### Kon'nichiwa ! <img src ="https://media.tenor.com/_yeL_VoTuGsAAAAj/sakuya-touhou.gif" width="40px">
 <h1 >I'm Rahul Kumar</span></h1>
 <h3 align="left">A passionate MERN Stack developer from India</h3>
 <br/>
 
-<img align="right" src ="https://media1.tenor.com/m/yWVIOwocbVsAAAAd/typing-occultic-nine.gif" width="450px">
+<img align="right" src ="https://media1.tenor.com/m/yWVIOwocbVsAAAAd/typing-occultic-nine.gif" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-1105&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-1105" /> </p>
 
