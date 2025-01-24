@@ -1,5 +1,5 @@
-<h1 align="center">Kon'nichiwa<img src ="https://media.tenor.com/_yeL_VoTuGsAAAAj/sakuya-touhou.gif" width="40px">   I'm Rahul Kumar</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h5 align="left">Kon'nichiwa<img src ="https://media.tenor.com/_yeL_VoTuGsAAAAj/sakuya-touhou.gif" width="40px"> </h5> <h1 >I'm Rahul Kumar</span></h1>
+<h3 align="left">A passionate MERN Stack developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-1105&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-1105" /> </p>
