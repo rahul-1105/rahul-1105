@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<h1 align="center">Kon'nichiwa<img src ="https://media.tenor.com/_yeL_VoTuGsAAAAj/sakuya-touhou.gif" width="40px">   I'm Rahul Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-```python
-Name =  "Vishal Choubey"
-Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime"]
-Languages = ["C++", "C", "Python", "JavaScript"]
-```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-1105&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-1105" /> </p>
 
@@ -20,6 +15,8 @@ Languages = ["C++", "C", "Python", "JavaScript"]
 - 📫 How to reach me **1105kr.rahul@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KAmQn_sXJP8Ngyv5cjKmxfV2PfHbl0U0/view](https://drive.google.com/file/d/1KAmQn_sXJP8Ngyv5cjKmxfV2PfHbl0U0/view)
+
+- ⚡ Fun fact **I love Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
