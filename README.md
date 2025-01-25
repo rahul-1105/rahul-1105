@@ -2,7 +2,7 @@
 <h1 >I'm Rahul Kumar</span></h1>
 <h3 align="left">A passionate MERN Stack developer from India</h3>
 
-<img align="right" src="https://media1.tenor.com/m/yWVIOwocbVsAAAAd/typing-occultic-nine.gif" width="400px"> 
+<img align="right" src="https://media1.tenor.com/m/yWVIOwocbVsAAAAd/typing-occultic-nine.gif" width="350px"> 
 
 &nbsp;
 
