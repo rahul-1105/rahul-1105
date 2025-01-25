@@ -4,7 +4,6 @@
 
 <img align="right" src="https://media1.tenor.com/m/yWVIOwocbVsAAAAd/typing-occultic-nine.gif" width="350px"> 
 
-&nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-1105&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-1105" /> </p>
 
