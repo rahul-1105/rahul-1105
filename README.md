@@ -11,8 +11,6 @@
 
 <img align="right" src="https://media1.tenor.com/m/yWVIOwocbVsAAAAd/typing-occultic-nine.gif" width="400px"> 
 
-&nbsp;
-
 - 🔭 I’m currently working on [StudyNotion](https://github.com/rahul-1105/Study-Notion)
 
 - 🌱 I’m currently learning **.Net**
@@ -24,6 +22,8 @@
 - 📫 How to reach me **1105kr.rahul@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KAmQn_sXJP8Ngyv5cjKmxfV2PfHbl0U0/view](https://drive.google.com/file/d/1KAmQn_sXJP8Ngyv5cjKmxfV2PfHbl0U0/view)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
