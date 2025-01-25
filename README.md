@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **.Net**
 
-- - ⚡ Fun fact **I love Anime**
+- ⚡ Fun fact **I love Anime**
 
 - 👯 I’m looking to collaborate on **Web Development Project**
 
