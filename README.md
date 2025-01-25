@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **1105kr.rahul@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KAmQn_sXJP8Ngyv5cjKmxfV2PfHbl0U0/view](https://drive.google.com/file/d/1KAmQn_sXJP8Ngyv5cjKmxfV2PfHbl0U0/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gTNdMpYIk-ZQ02sSQUwTZ--M82tR1QUN/view?usp=drive_link](https://drive.google.com/file/d/1gTNdMpYIk-ZQ02sSQUwTZ--M82tR1QUN/view?usp=drive_link)
 
 
 
